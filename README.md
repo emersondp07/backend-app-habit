@@ -23,7 +23,7 @@ Esse projeto é uma parte de três, foi desenvolvido o backend com rotas para um
 ## 🔖 Iniciando Projeto
 
 ```
-npm run start:dev
+npm run dev
 ```
 
 ## :memo: Licença
